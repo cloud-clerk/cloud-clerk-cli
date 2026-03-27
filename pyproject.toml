@@ -43,10 +43,10 @@ cloudclerk = "cloudclerk.cli:app"
 
 [project.urls]
 Homepage = "https://cloudclerk.io"
-Documentation = "https://github.com/numia-xyz/cloudclerk-cli#readme"
-Repository = "https://github.com/numia-xyz/cloudclerk-cli"
-Issues = "https://github.com/numia-xyz/cloudclerk-cli/issues"
-Changelog = "https://github.com/numia-xyz/cloudclerk-cli/releases"
+Documentation = "https://github.com/cloud-clerk/cloud-clerk-cli#readme"
+Repository = "https://github.com/cloud-clerk/cloud-clerk-cli"
+Issues = "https://github.com/cloud-clerk/cloud-clerk-cli/issues"
+Changelog = "https://github.com/cloud-clerk/cloud-clerk-cli/releases"
 
 [tool.hatch.build.targets.wheel]
 packages = ["src/cloudclerk"]
